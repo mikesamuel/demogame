@@ -5,7 +5,7 @@ Tentative Plan
 - [X] Make plan.  Ok Toad.
 - [ ] Put a map and grid on the screen using OCaml
   - [X] Create an OCaml program that runs.  (BONUS: Got VSCode OCaml extension)
-  - [ ] Research graphics with OCaml
+  - [X] Research graphics with OCaml (Got Raylib example working with dune and opam)
   - [ ] Find tiles for map: forest, desert, sea
   - [ ] Define a map in code.  (Later we'll have that in a separate file)
   - [ ] Draw the map on the screen.
